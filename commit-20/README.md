@@ -13,7 +13,7 @@ Veb aplikacija za elektronski zdravstveni karton koja omogućava upravljanje pac
 - PHP 8.2+
 - MySQL/SQLite
 - Sanctum Authentication
-- REST API
+- REST API 
 
 ## Funkcionalnosti
 
