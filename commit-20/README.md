@@ -9,7 +9,7 @@ Veb aplikacija za elektronski zdravstveni karton koja omogućava upravljanje pac
 - Jovana Sekulic
 
 ## Tehnologije
-- Laravel 12
+- Laravel  12
 - PHP 8.2+
 - MySQL/SQLite
 - Sanctum Authentication
